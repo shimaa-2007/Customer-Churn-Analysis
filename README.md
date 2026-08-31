@@ -2,6 +2,9 @@
 
 An end-to-end **customer churn analysis** case study for **Databel**, completed using Microsoft Excel.
 
+## Dashboard
+![Customer Churn Dashboard](dashboard.png)
+
 ## 📌 Project Overview
 
 The goal of this project is to analyze customer churn, identify the main factors behind customer loss, and present the findings through an interactive dashboard to support better retention decisions.
